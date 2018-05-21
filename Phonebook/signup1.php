@@ -18,7 +18,7 @@ require_once 'dbconnect.php';
 
 if (mysqli_query($conn, $sql)) {
     echo "Sign Up Successful";
-	//header("location: index.php");
+	header("location: index.php");
 }
  else {
     echo "Error: " . $sql . "<br>" . mysqli_error($conn);
