@@ -1,0 +1,29 @@
+
+body
+{ font-family: "lucida sans", arial, sans-serif;
+  padding: 0px;
+  margin: 0px;
+  font-size: 1em;
+  background: skyblue;
+  color: #5D5D5D;}
+  
+.submit
+{ font: 200% arial; 
+  border: 0; 
+  width: 20%; 
+  margin: 10px 0 0 10px; 
+  height: 50px;
+  padding: 5px 0 5px 0;
+  cursor: pointer; 
+  background: #3B3B3B; 
+  color: #FFF;}
+  
+.input
+{ padding: 5px; 
+  height:50px;
+  width: 299px; 
+  font-size:1em;
+  #font: 200% arial; 
+  border: 1px solid #E5E5DB; 
+  background: #FFF; 
+  color: #47433F;}
